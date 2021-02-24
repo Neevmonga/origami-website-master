@@ -1,0 +1,11 @@
+h2 {
+    color: rgb(255, 0, 0);
+}
+*{
+    border: solid;
+}
+.header{
+ background-color:aqua ;
+ display: flexbox;
+ justify-content: space-between;
+}
